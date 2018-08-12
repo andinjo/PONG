@@ -64,6 +64,7 @@
     <Compile Include="Assets\Scripts\AIPaddle.cs" />
     <Compile Include="Assets\Scripts\Ball.cs" />
     <Compile Include="Assets\Scripts\ContinueMusic.cs" />
+    <Compile Include="Assets\Scripts\DestroyMusic.cs" />
     <Compile Include="Assets\Scripts\EndGame.cs" />
     <Compile Include="Assets\Scripts\EndGame_2p.cs" />
     <Compile Include="Assets\Scripts\MovePaddle.cs" />
