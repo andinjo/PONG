@@ -63,13 +63,12 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\AIPaddle.cs" />
     <Compile Include="Assets\Scripts\Ball.cs" />
+    <Compile Include="Assets\Scripts\Camera.cs" />
     <Compile Include="Assets\Scripts\ContinueMusic.cs" />
-    <Compile Include="Assets\Scripts\DestroyMusic.cs" />
     <Compile Include="Assets\Scripts\EndGame.cs" />
     <Compile Include="Assets\Scripts\EndGame_2p.cs" />
     <Compile Include="Assets\Scripts\MovePaddle.cs" />
     <Compile Include="Assets\Scripts\MovePaddleArrow.cs" />
-    <Compile Include="Assets\Scripts\SceneSelect.cs" />
     <Compile Include="Assets\Scripts\SoundManager.cs" />
     <Compile Include="Assets\Scripts\SplashScreen.cs" />
     <None Include="Assets\Pixel Font - Tripfive\_README.txt" />
